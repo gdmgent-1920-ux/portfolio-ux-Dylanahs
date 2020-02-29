@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Dylan Vandenberg
 
-## Group:
+## Group: 1AVDa
 
 ## Getting Started
 
